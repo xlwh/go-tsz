@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"github.com/dgryski/go-tsz"
-	"github.com/dgryski/go-tsz/testdata"
+	"github.com/xlwh/go-tsz"
+	"github.com/xlwh/go-tsz/testdata"
 	"math"
 	"math/rand"
 	"os"
